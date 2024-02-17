@@ -13,7 +13,7 @@
             'useMusic' : {
                 'autoPlay' : true,
                 'loopPlay' : true,
-                'src' : '/stc/img/1.mp3',
+                'src' : 'http://8.137.11.216:801/stc/img/1.mp3',
                 'type':'audio/mpeg'
             }
          };
